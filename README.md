@@ -1,6 +1,6 @@
-# Binary Search Tree - GSG Assignment
+# Binary Search Tree
 
-This repository contains my implementation of several key Binary Search Tree (BST) methods as part of the GSG (Gaza Sky Geeks) DSA program.
+This repository contains my implementation of several key Binary Search Tree (BST) methods, including validation, height calculation, and balance checking.
 
 ## What I Implemented
 
